@@ -23,6 +23,11 @@ Study Squad is a web app that makes YouTube videos easy to digest by providing q
 - Javascript
 - Python
 - Flask
+- MongoDB
+- Bootstrap
+- Gemini
+- Atlas
+- render
 
 ## Getting Started 
 📌We are always open for contributions
